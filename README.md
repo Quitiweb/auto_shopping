@@ -1,1 +1,1 @@
-# auto_shopping
+# post_generator_api
